@@ -14,5 +14,7 @@ run with the input
 ## Example
 
 Input: s = "babad"
+
 Output: "bab"
+
 Explanation: "aba" is also a valid answer.
