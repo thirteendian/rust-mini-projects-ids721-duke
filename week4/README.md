@@ -1,20 +1,10 @@
 # week 2 
 
-This is a mini project that take a string and Return the longest Substring
-
-![Zigzag](zigzag.png)
-
-Please refer this question on leetcode: [Zigzag conversion](https://leetcode.com/problems/zigzag-conversion/)
+This is a mini project to take several input and calculate male BMI value
 
 ## Usage
 
 run with the input
 
-`cargo run -- longestpalin --input <INPUT>`
+`cargo run -- bmr --weight <WEHIGHT> --tall <TALL> --age <AGE> --choice <CHOICE>`
 
-
-## Example
-
-Input: s = "PAYPALISHIRING"
-
-Output: "PAHNAPLSIIGYIR"

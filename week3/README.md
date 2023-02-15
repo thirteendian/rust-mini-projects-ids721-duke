@@ -10,11 +10,11 @@ Please refer this question on leetcode: [Zigzag conversion](https://leetcode.com
 
 run with the input
 
-`cargo run -- bmr --weight <WEHIGHT> --tall <TALL> --age <AGE> --choice <CHOICE>`
+`cargo run -- longestpalin --input <INPUT>`
 
 
 ## Example
 
-Input: s = --weight 100.0 --tall 183.0 --age 25.0 --choice 3
+Input: s = "PAYPALISHIRING"
 
-Output: Your BMR is : 3380.5498
+Output: "PAHNAPLSIIGYIR"
