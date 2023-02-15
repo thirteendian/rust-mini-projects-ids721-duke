@@ -1,4 +1,4 @@
-# week 2 
+# week 4
 
 This is a mini project to take several input and calculate male BMI value
 
