@@ -7,6 +7,7 @@ rust-version:
 	clippy-driver --version		#rust linter
 build:
 	docker build -t fruit .
+
 format:
 	cargo fmt --quiet
 
